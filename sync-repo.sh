@@ -9,7 +9,7 @@ git commit -m "Updated"
 
 git pull origin main
 
-git push 
+git push origin main
 
 # Check if the push was successful
 if [ $? -eq 0 ]; then
