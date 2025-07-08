@@ -1,12 +1,12 @@
-# Welcome to the GitHub Copilot Developer Training
+# Welcome to the Effective Prompt Engineering with GitHub Copilot
 
 Instructor: Andrew Scoppa
 
 Email: andrew.scoppa@atmosera.com
 
-## GitHub Copilot CLI
+LinkedIn: [Andrew Scoppa](https://www.linkedin.com/in/andrewscoppa/)
 
-[Setup GitHub Copilot CLI](https://docs.github.com/en/copilot/github-copilot-in-the-cli/setting-up-github-copilot-in-the-cli)
+GH handle: andrew-scoppa
 
 ## OpenAI
 
@@ -16,6 +16,10 @@ Email: andrew.scoppa@atmosera.com
 
 [Tools](https://platform.openai.com/docs/assistants/tools)
 
+[Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+
+[Prompting Examples](https://platform.openai.com/docs/examples)
+
 ## Copilot Resources
 
 [Using GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot)
@@ -24,9 +28,7 @@ Email: andrew.scoppa@atmosera.com
 
 [Using GitHub Copilot Chat in your IDE](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide)
 
-[Copilot Chat Cheat Sheet](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/github-copilot-chat-cheat-sheet)
 
-[Copilot Chat Cookbook](https://docs.github.com/en/copilot/copilot-chat-cookbook)
 
 
 
