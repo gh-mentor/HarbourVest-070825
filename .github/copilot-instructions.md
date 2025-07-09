@@ -1,4 +1,4 @@
-# Copilot Code Generation Instructions
+# Copilot Code Generation Instructions for JavaScript
 
 ## General Guidelines
 - Use camelCase for variable and function names.
